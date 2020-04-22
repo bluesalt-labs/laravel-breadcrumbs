@@ -1,4 +1,4 @@
-Since I am actively using this repo, I have created a fork to fix any breaking changes that may come up. This isn't an active maintainence per se, but will allow an active project to continue to use this package. 
+Since I am actively using this repo, I have created a fork to fix any breaking changes that may come up. This isn't an active maintenance per se, but will allow an active project to continue to use this package. 
 To the best of my ability (and time) I will be keeping the project utilizing this package up to date with the latest version of PHP and Laravel, so this should continue to function if anyone else is interested in using it. 
 
 
