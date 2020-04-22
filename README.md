@@ -1,3 +1,9 @@
+Since I am actively using this repo, I have created a fork to fix any breaking changes that may come up. This isn't an active maintainence per se, but will allow an active project to continue to use this package. 
+To the best of my ability (and time) I will be keeping the project utilizing this package up to date with the latest version of PHP and Laravel, so this should continue to function if anyone else is interested in using it. 
+
+
+## Original Documentation
+
 **As of 18 April 2020, Laravel Breadcrumbs is not being maintained.**
 
 It will probably keep working for a while - I [removed the version constraint](#v532-mon-30-dec-2019) from `composer.json`, so it will keep working until a future version of Laravel makes breaking changes.
