@@ -31,7 +31,7 @@
     "prefer-stable": true,
     "autoload": {
         "psr-4": {
-            "DaveJamesMiller\\Breadcrumbs\\": "classes/"
+            "BlueSaltLabs\\Breadcrumbs\\": "classes/"
         }
     },
     "autoload-dev": {
@@ -43,10 +43,10 @@
     "extra": {
         "laravel": {
             "providers": [
-                "DaveJamesMiller\\Breadcrumbs\\BreadcrumbsServiceProvider"
+                "BlueSaltLabs\\Breadcrumbs\\BreadcrumbsServiceProvider"
             ],
             "aliases": {
-                "Breadcrumbs": "DaveJamesMiller\\Breadcrumbs\\Facades\\Breadcrumbs"
+                "Breadcrumbs": "BlueSaltLabs\\Breadcrumbs\\Facades\\Breadcrumbs"
             }
         }
     }

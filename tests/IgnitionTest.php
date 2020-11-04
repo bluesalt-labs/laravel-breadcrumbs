@@ -4,10 +4,10 @@ namespace BreadcrumbsTests;
 
 use Breadcrumbs;
 use Config;
-use DaveJamesMiller\Breadcrumbs\Exceptions\DuplicateBreadcrumbException;
-use DaveJamesMiller\Breadcrumbs\Exceptions\InvalidBreadcrumbException;
-use DaveJamesMiller\Breadcrumbs\Exceptions\UnnamedRouteException;
-use DaveJamesMiller\Breadcrumbs\Exceptions\ViewNotSetException;
+use BlueSaltLabs\Breadcrumbs\Exceptions\DuplicateBreadcrumbException;
+use BlueSaltLabs\Breadcrumbs\Exceptions\InvalidBreadcrumbException;
+use BlueSaltLabs\Breadcrumbs\Exceptions\UnnamedRouteException;
+use BlueSaltLabs\Breadcrumbs\Exceptions\ViewNotSetException;
 use ErrorException;
 use Facade\IgnitionContracts\ProvidesSolution;
 use Route;

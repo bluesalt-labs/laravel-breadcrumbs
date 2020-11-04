@@ -1,8 +1,8 @@
 <?php
 
-namespace DaveJamesMiller\Breadcrumbs\Exceptions;
+namespace BlueSaltLabs\Breadcrumbs\Exceptions;
 
-use DaveJamesMiller\Breadcrumbs\BreadcrumbsException;
+use BlueSaltLabs\Breadcrumbs\BreadcrumbsException;
 use Facade\IgnitionContracts\BaseSolution;
 use Facade\IgnitionContracts\ProvidesSolution;
 use Facade\IgnitionContracts\Solution;
@@ -47,9 +47,9 @@ class UnnamedRouteException extends BreadcrumbsException implements ProvidesSolu
         }
 
         $links = [];
-        $links['Route-bound breadcrumbs'] = 'https://github.com/davejamesmiller/laravel-breadcrumbs#route-bound-breadcrumbs';
-        $links['Silencing breadcrumb exceptions'] = 'https://github.com/davejamesmiller/laravel-breadcrumbs#configuration-file';
-        $links['Laravel Breadcrumbs documentation'] = 'https://github.com/davejamesmiller/laravel-breadcrumbs#laravel-breadcrumbs';
+        $links['Route-bound breadcrumbs'] = 'https://github.com/bluesaltlabs/laravel-breadcrumbs#route-bound-breadcrumbs';
+        $links['Silencing breadcrumb exceptions'] = 'https://github.com/bluesaltlabs/laravel-breadcrumbs#configuration-file';
+        $links['Laravel Breadcrumbs documentation'] = 'https://github.com/bluesaltlabs/laravel-breadcrumbs#laravel-breadcrumbs';
 
         return BaseSolution::create('Give the route a name')
             ->setSolutionDescription("For example:

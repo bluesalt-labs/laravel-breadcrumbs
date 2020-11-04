@@ -3,7 +3,7 @@
 namespace BreadcrumbsTests;
 
 use Breadcrumbs;
-use DaveJamesMiller\Breadcrumbs\BreadcrumbsServiceProvider as BreadcrumbsServiceProvider;
+use BlueSaltLabs\Breadcrumbs\BreadcrumbsServiceProvider as BreadcrumbsServiceProvider;
 
 class CustomChildServiceProviderTest extends TestCase
 {

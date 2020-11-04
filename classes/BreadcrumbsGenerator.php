@@ -1,8 +1,8 @@
 <?php
 
-namespace DaveJamesMiller\Breadcrumbs;
+namespace BlueSaltLabs\Breadcrumbs;
 
-use DaveJamesMiller\Breadcrumbs\Exceptions\InvalidBreadcrumbException;
+use BlueSaltLabs\Breadcrumbs\Exceptions\InvalidBreadcrumbException;
 use Illuminate\Support\Collection;
 
 /**
