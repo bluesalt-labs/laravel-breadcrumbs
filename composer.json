@@ -1,10 +1,10 @@
 {
-    "name": "bluesalt-labs/laravel-breadcrumbs",
+    "name": "bluesaltlabs/laravel-breadcrumbs",
     "description": "A simple Laravel-style way to create breadcrumbs. Forked from davejamesmiller/laravel-breadcrumbs",
     "keywords": [
         "laravel"
     ],
-    "homepage": "https://github.com/bluesalt-labs/laravel-breadcrumbs",
+    "homepage": "https://github.com/bluesaltlabs/laravel-breadcrumbs",
     "authors": [
         {
             "name": "Luke Sontrop",
